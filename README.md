@@ -1,4 +1,4 @@
-#Firefox Add-On Camel case to pascal case
+# Firefox Add-On Camel case to pascal case
 
 # ConvertToPascalCase
 Camel case class name/property convert to Pascal Case: http://converter.semihcelikol.com/

@@ -1,7 +1,7 @@
-# addOnCamelCaseToPascalCase
+# AddOn Camel Case To Pascal Case
 Firefox add-on Camel case to Pascal case converter
 
-Camel Case claass;
+#Camel Case class
 
 public class testData
 {
@@ -9,7 +9,7 @@ public class testData
     public string surName { get; set; }
 }
 
-Convert to Pascal Case class;
+#Convert to Pascal Case class;
 
 public class TestData
 {

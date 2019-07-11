@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "CamelCaseToPascalCaseConverter",
+  "description": "Camel case to Pascal Case Converter",
+  "version": "1.0.0",
+  "author": "Semih Çelikol",
+  "homepage_url": "http://converter.semihcelikol.com/",
+  "icons": {
+    "16": "img/icon16.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
+  },
+
+  "permissions": [
+    "tabs",
+    "contextMenus"
+  ],
+
+  "background": {
+    "scripts": [ "mainHelper.js"]
+  },
+
+  "browser_action": {
+    "browser_style": true,
+    "default_icon": {
+      "19": "img/icon48.png",
+      "38": "img/icon48.png"
+    },
+    "default_popup": "index.html"
+  }
+}

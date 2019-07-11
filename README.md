@@ -1,18 +1,39 @@
-# AddOn Camel Case To Pascal Case
-Firefox add-on Camel case to Pascal case converter
+#Firefox Add-On Camel case to pascal case
 
-#Camel Case class
+# ConvertToPascalCase
+Camel case class name/property convert to Pascal Case: http://converter.semihcelikol.com/
+
+
+<h3>Camel case data;</h3>
+
+```
 
 public class testData
 {
-    public string name { get; set; }
-    public string surName { get; set; }
+   public string name { get; set; }
+   public string surName { get; set; }
 }
 
-#Convert to Pascal Case class;
+public class testData2
+{
+   public string name2 { get; set; }
+   public string surName2 { get; set; }
+}
+```
+
+<h3>Convert to Pascal Case;</h3>
+
+```
 
 public class TestData
 {
-    public string Name { get; set; }
-    public string SurName { get; set; }
+   public string Name { get; set; }
+   public string SurName { get; set; }
 }
+
+public class TestData2
+{
+   public string Name2 { get; set; }
+   public string SurName2 { get; set; }
+}
+```

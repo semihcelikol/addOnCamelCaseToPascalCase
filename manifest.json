@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "CamelCaseToPascalCaseConverter",
-  "description": "Camel case to Pascal Case Converter",
-  "version": "1.0.0",
+  "description": "Converter tool || CamelCaseToPascalCase or PascalCaseToCamelCase",
+  "version": "1.0.1",
   "author": "Semih Çelikol",
   "homepage_url": "http://converter.semihcelikol.com/",
   "icons": {
